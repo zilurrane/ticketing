@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: auth
-          image: ziluli/auth:latest
+          image: asia.gcr.io/ticketing-dev-317406/auth
 ---
 apiVersion: v1
 kind: Service
