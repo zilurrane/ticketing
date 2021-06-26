@@ -1,5 +1,5 @@
 import express from 'express';
-import { currentUser } from '@lifecompilers/common';
+import { currentUser } from '@zlearn/ticketing-common';
 
 const router = express.Router();
 
