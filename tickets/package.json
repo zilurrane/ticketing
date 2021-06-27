@@ -1,5 +1,5 @@
 {
-  "name": "auth",
+  "name": "tickets",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,12 +13,6 @@
     "setupFilesAfterEnv": [
       "./src/test/setup.ts"
     ]
-  },
-  "config": {
-    "mongodbMemoryServer": {
-      "debug": "1",
-      "arch": "x64"
-    }
   },
   "keywords": [],
   "author": "",
